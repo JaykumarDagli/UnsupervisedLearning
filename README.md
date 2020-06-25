@@ -1,6 +1,6 @@
-# UnsupervisedLearning
+This is a mini project in which we will learn unsupervised learning algorithms like hierarchical clustering, k-means clustering and dbscan
 
-## Clustering
+# UnsupervisedLearning
 
 - This is a type of unsupervised learning in which we try to cluster/form groups of unknown data points. Basically we want to find where one belongs if we have many groups. Application: focused marketing campaigns, create groups and then build predictive models on each group
 - Just that when we use distance, if scales of a features are very different, then the higher scale feature will dominate the cluster [age vs salary] and thus we use standardization/normalization
