@@ -2,7 +2,7 @@ This is a mini project in which we will learn unsupervised learning algorithms l
 
 # UnsupervisedLearning
 
-- This is a type of unsupervised learning in which we try to cluster/form groups of unknown data points. Basically we want to find where one belongs if we have many groups. Application: focused marketing campaigns, create groups and then build predictive models on each group
+- Using unsupervised learning we try to cluster/form groups of data points. Basically we want to find where one belongs if we have many groups. Application: focused marketing campaigns, create groups and then build predictive models on each group
 - Just that when we use distance, if scales of a features are very different, then the higher scale feature will dominate the cluster [age vs salary] and thus we use standardization/normalization
 - There are 2 types of this clustering algorithm → Flat (K means) and Hierarchical(Agglomerative and Divisive)
 - **Hierarchical clustering**: as the name suggests forms an hierarchy/connection between different data points and merges them into one as per the similarity, there are 2 kinds of hierarchical clustering
